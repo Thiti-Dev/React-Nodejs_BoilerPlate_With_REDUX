@@ -1,2 +1,6 @@
-"# Run by using this command na kub > npm run dev" 
-"# React-Nodejs_BoilerPlate_With_REDUX" 
+# This is the boilerplate of React with Redux
+> To be able to run this use commands below
+`
+npm run server
+npm run dev
+`
